@@ -5,8 +5,8 @@ compatibility_date = "2024-05-02"
 compatibility_flags = ["nodejs_compat"]
 
 kv_namespaces = [
-{ binding = "customers", id = "444250bdf7364b779462e8a8c30404ac", preview_id = "97b754a4124f44f4870164c01e9c07f7" },
-{ binding = "scripts", id = "9855b80aa7bd48738c103e39890d1d9b", preview_id = "da641b52654140d7baad1edb072a1951" }
+{ binding = "customers", id = "5ca620dedd2344eb9ab32988be855e14", preview_id = "f12117bf0692464ea5670b353e18aa8b" },
+{ binding = "scripts", id = "2442c31d09134c7ead2a86c3a91d5a20", preview_id = "0919c8ee80f145e7bf8320deb5312fcc" }
 ]
 
 [vars]
